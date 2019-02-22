@@ -20,6 +20,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeMePresente/JeMePresente.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente/loisirs.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -58,6 +67,7 @@
         <option value="$PROJECT_DIR$/JeMePresente/sports.html" />
         <option value="$PROJECT_DIR$/JeMePresente/Études.html" />
         <option value="$PROJECT_DIR$/JeMePresente/loisirs.html" />
+        <option value="$PROJECT_DIR$/JeMePresente/JeMePresente.html" />
       </list>
     </option>
   </component>
@@ -125,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550803677192</updated>
-      <workItem from="1550803678308" duration="1397000" />
+      <workItem from="1550803678308" duration="1690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1397000" />
+    <option name="totallyTimeSpent" value="1690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="2024" height="1049" extended-state="0" />
@@ -168,13 +178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente/Études.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente/reves.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -182,10 +185,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente/Études.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente/loisirs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente/JeMePresente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
