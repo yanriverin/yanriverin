@@ -1,0 +1,22 @@
+body
+
+{
+  width: 1000px;
+    margin: auto;
+}
+
+h1
+{
+
+ color: yellow;
+    font-size: 140px;
+    text-align: center;
+
+}
+
+p
+{
+    color: white;
+    font-size: 18px;
+    background-color: black;
+}
