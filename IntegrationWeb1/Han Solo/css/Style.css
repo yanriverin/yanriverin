@@ -2,7 +2,7 @@ Yan Riverin
 style.css
 
 @font-face {
-    font-family: MaPolice;
+    font-family: StarWarsPolice;
     src: url("Starjedi.ttf");
 }
 
@@ -17,7 +17,7 @@ body{
 h1
 {
     color: yellow;
-    font-family: MaPolice;
+    font-family: StarWarsPolice;
     font-size: 140px;
     text-align: center;
     margin: 0;
@@ -62,3 +62,9 @@ img
     color: yellow;
 }
 
+.titre
+{
+    color: white;
+    text-align: center;
+
+}
