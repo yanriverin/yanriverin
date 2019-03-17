@@ -10,20 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../IntegrationWeb1/Han Solo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="585">
+              <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../IntegrationWeb1/Han Solo/css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="300">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -85,15 +85,15 @@
         <option value="$PROJECT_DIR$/../IntegrationWeb1/Han Solo/Presentation.html" />
         <option value="$PROJECT_DIR$/../IntegrationWeb1/Han Solo/Style.css" />
         <option value="$PROJECT_DIR$/../IntegrationWeb1/Han Solo/test.html" />
-        <option value="$PROJECT_DIR$/../IntegrationWeb1/Han Solo/css/Style.css" />
         <option value="$PROJECT_DIR$/../IntegrationWeb1/Han Solo/index.html" />
+        <option value="$PROJECT_DIR$/../IntegrationWeb1/Han Solo/css/Style.css" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="2024" />
     <option name="height" value="1049" />
@@ -182,15 +182,15 @@
       <option name="presentableId" value="Default" />
       <updated>1550803677192</updated>
       <workItem from="1550803678308" duration="6089000" />
-      <workItem from="1552741513532" duration="24812000" />
+      <workItem from="1552741513532" duration="25795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30901000" />
+    <option name="totallyTimeSpent" value="31884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2024" height="1049" extended-state="0" />
+    <frame x="0" y="23" width="2024" height="1049" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947754" visible="true" weight="0.25227043" />
@@ -293,6 +293,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../IntegrationWeb1/Han Solo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/Correction Semaine 2-2/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -305,15 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../IntegrationWeb1/Han Solo/css/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../IntegrationWeb1/Han Solo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
