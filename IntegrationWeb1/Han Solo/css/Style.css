@@ -3,7 +3,7 @@ style.css
 
 @font-face {
     font-family: MaPolice;
-    src: url("Starjedi");
+    src: url("Starjedi.ttf");
 }
 
 body{
@@ -55,5 +55,10 @@ img
 {
      margin:auto;
      display:block;
+}
+
+.film
+{
+    color: yellow;
 }
 
