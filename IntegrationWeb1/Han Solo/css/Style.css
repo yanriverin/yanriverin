@@ -4,14 +4,13 @@ body
   width: 1000px;
     margin: auto;
 }
-
 h1
 {
 
  color: yellow;
+    font-family: Starjedi.ttf;
     font-size: 140px;
     text-align: center;
-
 }
 
 p
