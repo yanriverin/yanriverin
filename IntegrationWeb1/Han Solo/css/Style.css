@@ -1,21 +1,59 @@
-body
+Yan Riverin
+style.css
 
-{
-  width: 1000px;
-    margin: auto;
+@font-face {
+    font-family: MaPolice;
+    src: url("Starjedi");
 }
+
+body{
+    width:1000px;
+    background-image: url("../img/etoileMort.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    margin:auto;
+}
+
 h1
 {
-
- color: yellow;
-    font-family: Starjedi.ttf;
+    color: yellow;
+    font-family: MaPolice;
     font-size: 140px;
+    text-align: center;
+    margin: 0;
+}
+
+h2
+{
+    font-size: 72px;
+    color: white;
+    text-align: center;
+}
+
+h3
+{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+h4
+{
+    font-size: 44px;
+    color: white;
     text-align: center;
 }
 
 p
 {
+    font-size: 16px;
     color: white;
-    font-size: 18px;
+    text-align: justify;
     background-color: black;
 }
+
+img
+{
+     margin:auto;
+     display:block;
+}
+
